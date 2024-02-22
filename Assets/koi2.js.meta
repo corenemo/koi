@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ff5f2372d724e84995dbe071b77abc3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - koi: {instanceID: 0}
+  - f2: {instanceID: 0}
+  - f3: {instanceID: 0}
+  - f4: {instanceID: 0}
+  - tar: {instanceID: 0}
+  - tfd: {instanceID: 0}
+  - tsh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}

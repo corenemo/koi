@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 6049de56ec0451f438d22c0974d68bbb
+ModelImporter:
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Line233
+    100004: Line246
+    100006: Line247
+    100008: Line260
+    100010: Line271
+    100012: Line272
+    100014: Line273
+    100016: Line274
+    100018: Object083
+    100020: Object086
+    100022: Object087
+    100024: Object089
+    100026: Plane332
+    100028: Plane333
+    100030: Plane334
+    100032: Plane335
+    100034: Plane336
+    400000: //RootNode
+    400002: Line233
+    400004: Line246
+    400006: Line247
+    400008: Line260
+    400010: Line271
+    400012: Line272
+    400014: Line273
+    400016: Line274
+    400018: Object083
+    400020: Object086
+    400022: Object087
+    400024: Object089
+    400026: Plane332
+    400028: Plane333
+    400030: Plane334
+    400032: Plane335
+    400034: Plane336
+    2300000: Line233
+    2300002: Line246
+    2300004: Line247
+    2300006: Line260
+    2300008: Line271
+    2300010: Line272
+    2300012: Line273
+    2300014: Line274
+    2300016: Object083
+    2300018: Object086
+    2300020: Object087
+    2300022: Object089
+    2300024: Plane332
+    2300026: Plane333
+    2300028: Plane334
+    2300030: Plane335
+    2300032: Plane336
+    3300000: Line233
+    3300002: Line246
+    3300004: Line247
+    3300006: Line260
+    3300008: Line271
+    3300010: Line272
+    3300012: Line273
+    3300014: Line274
+    3300016: Object083
+    3300018: Object086
+    3300020: Object087
+    3300022: Object089
+    3300024: Plane332
+    3300026: Plane333
+    3300028: Plane334
+    3300030: Plane335
+    3300032: Plane336
+    4300000: Plane332
+    4300002: Plane335
+    4300004: Plane336
+    4300006: Line247
+    4300008: Object086
+    4300010: Object083
+    4300012: Plane333
+    4300014: Plane334
+    4300016: Line233
+    4300018: Line260
+    4300020: Line246
+    4300022: Line273
+    4300024: Line274
+    4300026: Object087
+    4300028: Object089
+    4300030: Line271
+    4300032: Line272
+    7400000: Take 001
+    7400002: Take 001 //// CoralSet_03
+    9500000: //RootNode
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: e6860100
+      data:
+        first: 4
+        second: c61a0600
+      data:
+        first: 111
+        second: 605fa900
+    Line233:
+      data:
+        first: 1
+        second: d4860100
+      data:
+        first: 4
+        second: b41a0600
+      data:
+        first: 23
+        second: 92182300
+      data:
+        first: 33
+        second: d25a3200
+    Line246:
+      data:
+        first: 1
+        second: d0860100
+      data:
+        first: 4
+        second: b01a0600
+      data:
+        first: 23
+        second: 8e182300
+      data:
+        first: 33
+        second: ce5a3200
+    Line247:
+      data:
+        first: 1
+        second: de860100
+      data:
+        first: 4
+        second: be1a0600
+      data:
+        first: 23
+        second: 9c182300
+      data:
+        first: 33
+        second: dc5a3200
+    Line260:
+      data:
+        first: 1
+        second: d2860100
+      data:
+        first: 4
+        second: b21a0600
+      data:
+        first: 23
+        second: 90182300
+      data:
+        first: 33
+        second: d05a3200
+    Line271:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+      data:
+        first: 23
+        second: 84182300
+      data:
+        first: 33
+        second: c45a3200
+    Line272:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+      data:
+        first: 23
+        second: 82182300
+      data:
+        first: 33
+        second: c25a3200
+    Line273:
+      data:
+        first: 1
+        second: ce860100
+      data:
+        first: 4
+        second: ae1a0600
+      data:
+        first: 23
+        second: 8c182300
+      data:
+        first: 33
+        second: cc5a3200
+    Line274:
+      data:
+        first: 1
+        second: cc860100
+      data:
+        first: 4
+        second: ac1a0600
+      data:
+        first: 23
+        second: 8a182300
+      data:
+        first: 33
+        second: ca5a3200
+    Object083:
+      data:
+        first: 1
+        second: da860100
+      data:
+        first: 4
+        second: ba1a0600
+      data:
+        first: 23
+        second: 98182300
+      data:
+        first: 33
+        second: d85a3200
+    Object086:
+      data:
+        first: 1
+        second: dc860100
+      data:
+        first: 4
+        second: bc1a0600
+      data:
+        first: 23
+        second: 9a182300
+      data:
+        first: 33
+        second: da5a3200
+    Object087:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+      data:
+        first: 23
+        second: 88182300
+      data:
+        first: 33
+        second: c85a3200
+    Object089:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+      data:
+        first: 23
+        second: 86182300
+      data:
+        first: 33
+        second: c65a3200
+    Plane332:
+      data:
+        first: 1
+        second: e4860100
+      data:
+        first: 4
+        second: c41a0600
+      data:
+        first: 23
+        second: a2182300
+      data:
+        first: 33
+        second: e25a3200
+    Plane333:
+      data:
+        first: 1
+        second: d8860100
+      data:
+        first: 4
+        second: b81a0600
+      data:
+        first: 23
+        second: 96182300
+      data:
+        first: 33
+        second: d65a3200
+    Plane334:
+      data:
+        first: 1
+        second: d6860100
+      data:
+        first: 4
+        second: b61a0600
+      data:
+        first: 23
+        second: 94182300
+      data:
+        first: 33
+        second: d45a3200
+    Plane335:
+      data:
+        first: 1
+        second: e2860100
+      data:
+        first: 4
+        second: c21a0600
+      data:
+        first: 23
+        second: a0182300
+      data:
+        first: 33
+        second: e05a3200
+    Plane336:
+      data:
+        first: 1
+        second: e0860100
+      data:
+        first: 4
+        second: c01a0600
+      data:
+        first: 23
+        second: 9e182300
+      data:
+        first: 33
+        second: de5a3200

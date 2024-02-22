@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 2d4d9c9e96175478cb85021623c44a96
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone01_(1)
+    100002: Bone01_(2)
+    100004: Bone01_(3)
+    100006: Bone02_(1)
+    100008: Bone02_(2)
+    100010: Bone02_(3)
+    100012: Bone03_(1)
+    100014: Bone03_(2)
+    100016: Bone03_(3)
+    100018: Camera
+    100020: Light
+    100022: //RootNode
+    100024: muleta
+    400000: Bone01_(1)
+    400002: Bone01_(2)
+    400004: Bone01_(3)
+    400006: Bone02_(1)
+    400008: Bone02_(2)
+    400010: Bone02_(3)
+    400012: Bone03_(1)
+    400014: Bone03_(2)
+    400016: Bone03_(3)
+    400018: Camera
+    400020: Light
+    400022: //RootNode
+    400024: muleta
+    4300000: muleta
+    7400000: Base Stack
+    9500000: //RootNode
+    13700000: muleta
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

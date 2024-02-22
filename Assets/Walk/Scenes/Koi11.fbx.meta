@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 23e2ecb0aa38248889f21360cb17be7a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone01_(1)
+    100002: Bone01_(10)
+    100004: Bone01_(11)
+    100006: Bone01_(12)
+    100008: Bone01_(13)
+    100010: Bone01_(14)
+    100012: Bone01_(15)
+    100014: Bone01_(16)
+    100016: Bone01_(17)
+    100018: Bone01_(18)
+    100020: Bone01_(19)
+    100022: Bone01_(2)
+    100024: Bone01_(20)
+    100026: Bone01_(21)
+    100028: Bone01_(3)
+    100030: Bone01_(4)
+    100032: Bone01_(5)
+    100034: Bone01_(6)
+    100036: Bone01_(7)
+    100038: Bone01_(8)
+    100040: Bone01_(9)
+    100042: Bone02_(1)
+    100044: Bone02_(10)
+    100046: Bone02_(2)
+    100048: Bone02_(3)
+    100050: Bone02_(4)
+    100052: Bone02_(5)
+    100054: Bone02_(6)
+    100056: Bone02_(7)
+    100058: Bone02_(8)
+    100060: Bone02_(9)
+    100062: Bone03_(1)
+    100064: Bone03_(2)
+    100066: Bone04_(1)
+    100068: Bone04_(2)
+    100070: Bone05_(1)
+    100072: Bone05_(2)
+    100074: Bone06
+    100076: Bone07
+    100078: Camera
+    100080: Koi6
+    100082: //RootNode
+    100084: Light
+    100086: Koi7
+    100088: Koi10
+    100090: Koi11
+    400000: Bone01_(1)
+    400002: Bone01_(10)
+    400004: Bone01_(11)
+    400006: Bone01_(12)
+    400008: Bone01_(13)
+    400010: Bone01_(14)
+    400012: Bone01_(15)
+    400014: Bone01_(16)
+    400016: Bone01_(17)
+    400018: Bone01_(18)
+    400020: Bone01_(19)
+    400022: Bone01_(2)
+    400024: Bone01_(20)
+    400026: Bone01_(21)
+    400028: Bone01_(3)
+    400030: Bone01_(4)
+    400032: Bone01_(5)
+    400034: Bone01_(6)
+    400036: Bone01_(7)
+    400038: Bone01_(8)
+    400040: Bone01_(9)
+    400042: Bone02_(1)
+    400044: Bone02_(10)
+    400046: Bone02_(2)
+    400048: Bone02_(3)
+    400050: Bone02_(4)
+    400052: Bone02_(5)
+    400054: Bone02_(6)
+    400056: Bone02_(7)
+    400058: Bone02_(8)
+    400060: Bone02_(9)
+    400062: Bone03_(1)
+    400064: Bone03_(2)
+    400066: Bone04_(1)
+    400068: Bone04_(2)
+    400070: Bone05_(1)
+    400072: Bone05_(2)
+    400074: Bone06
+    400076: Bone07
+    400078: Camera
+    400080: //RootNode
+    400082: Koi6
+    400084: Light
+    400086: Koi7
+    400088: Koi10
+    400090: Koi11
+    4300000: Koi6
+    4300002: Koi7
+    4300004: Koi10
+    4300006: Koi11
+    7400000: 1
+    7400002: 2
+    7400004: 3
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Koi6
+    13700002: Koi7
+    13700004: Koi10
+    13700006: Koi11
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Afterflosse
+    second: {fileID: 2100000, guid: 77714e127b1e340349b682e3091b8cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brustflosse
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mund
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rueckenflosse
+    second: {fileID: 2100000, guid: 74656ebe780a84df387b0fa33b41c7ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schwanzflosse
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: auge
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koi11a
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: koi11b
+    second: {fileID: 2100000, guid: 54624d27d3a644850a6a93ea3bf9e285, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1
+      takeName: Base Stack
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Koi6
+        weight: 1
+      - path: Koi6/Bone01_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(18)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(20)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)/Bone02_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)/Bone02_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone05_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(15)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone01_(16)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(17)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)/Bone02_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(11)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)/Bone02_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)/Bone02_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)/Bone02_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)/Bone02_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)/Bone02_(4)
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Base Stack
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Koi6
+        weight: 1
+      - path: Koi6/Bone01_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(18)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(20)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)/Bone02_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)/Bone02_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone05_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(15)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone01_(16)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(17)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)/Bone02_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(11)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)/Bone02_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)/Bone02_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)/Bone02_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)/Bone02_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)/Bone02_(4)
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3
+      takeName: Base Stack
+      firstFrame: 90
+      lastFrame: 210
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Koi6
+        weight: 1
+      - path: Koi6/Bone01_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(18)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone01_(20)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(19)/Bone02_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone01_(21)/Bone02_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(5)/Bone02_(5)/Bone03_(2)/Bone04_(2)/Bone05_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone01_(15)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone01_(16)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone01_(17)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(9)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone01_(12)/Bone02_(6)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(10)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(11)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(13)/Bone02_(7)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone01_(14)/Bone02_(8)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(2)/Bone02_(2)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(3)/Bone02_(3)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)
+        weight: 1
+      - path: Koi6/Bone01_(1)/Bone02_(1)/Bone03_(1)/Bone04_(1)/Bone05_(1)/Bone06/Bone07/Bone01_(4)/Bone02_(4)
+        weight: 1
+      - path: Light
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
